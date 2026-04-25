@@ -32,7 +32,7 @@ sudo systemctl enable docker
 *Add Docker installation screenshot here*
 
 ```markdown
-![Docker Installation](https://raw.githubusercontent.com/irfan129612-prog/SIEM-Labs/main/Lab-01-Introduction/screenshots/Docker-Installation.png)
+![Docker Installation](screenshots/Docker.png)
 ```
 
 ---
